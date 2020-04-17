@@ -16,7 +16,7 @@ You need LibSVM (my version: 3.23) and NeuroElf (my version: 1.1 7251)
 ## Authors: 
 The code was originally created by Fraser W. Smith and was adapted to this project by Petra Vetter and Lukasz Bola.
 
-### Citations:  
+## Citations:  
 Vetter P., Bola L., Reich L., Bennett M., Muckli L., Amedi A. (2020). Decoding natural sounds in early “visual” cortex of congenitally blind individuals. Current Biology.
 
 ## to run this pipeline
