@@ -14,7 +14,7 @@ S4. Chang, C.C., Lin, C.J. (2001). http://www.csie.ntu.edu.tw/~cjlin/libsvm.
 You need LibSVM (my version: 3.23) and NeuroElf (my version: 1.1 7251)
 
 ## Authors: 
-The code was originally created by Fraser W. Smith and was adapted to this project by Petra Vetter and Lukasz Bola.
+The code was originally created by [Fraser W. Smith](https://github.com/fws252/Fraser-Smith-Research) and was adapted to this project by Petra Vetter and Lukasz Bola.
 
 ## Citations:  
 Vetter P., Bola L., Reich L., Bennett M., Muckli L., Amedi A. (2020). Decoding natural sounds in early “visual” cortex of congenitally blind individuals. Current Biology.
