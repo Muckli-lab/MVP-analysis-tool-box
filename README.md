@@ -19,8 +19,8 @@ The code was originally created by [Fraser W. Smith](https://github.com/fws252/F
 ## Citations:  
 Vetter P., Bola L., Reich L., Bennett M., Muckli L., Amedi A. (2020). Decoding natural sounds in early “visual” cortex of congenitally blind individuals. Current Biology.
 
-## to run this pipeline
-
+## Usage 
+### ROI analysis
 ~~~
 %%% Run main ROI analysis - header info from File RUN_ALL_BATCH.m
 % Perform SVM classification
@@ -49,3 +49,5 @@ run run_all_sub_get_unbiased_conf_mats.m
 % get the confusion matrices
 run pooled_confusionMatrix_unbiased_visual.m
 ~~~
+
+### Searchlight classification 
