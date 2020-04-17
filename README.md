@@ -1,6 +1,7 @@
 # MVP-analysis-tool-box
 Multi-Voxel Pattern analysis of Brain imaging data. 
 This is the code that we used for the Vetter et al. 2020 publication
+it is surface based analysis and uses patches of interests (POIs) and Mash-timecourses (MTCs). It is in this sense creating new vertex based data and does not use entire voxels.
 
 ## Description: 
 Perform SVM classification
