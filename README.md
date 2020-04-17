@@ -21,6 +21,7 @@ Vetter P., Bola L., Reich L., Bennett M., Muckli L., Amedi A. (2020). Decoding n
 
 ## to run this pipeline
 
+~~~
 %%% Run main ROI analysis - header info from File RUN_ALL_BATCH.m
 % Perform SVM classification
 % Input files are defined in: getFileInfo.m
@@ -47,3 +48,4 @@ run multipleCompCorr_fdr.m
 run run_all_sub_get_unbiased_conf_mats.m
 % get the confusion matrices
 run pooled_confusionMatrix_unbiased_visual.m
+~~~
